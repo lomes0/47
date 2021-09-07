@@ -8,7 +8,7 @@ In a past job interview I have been asked the following question:
 
 "Suggest functions which expect an input $x\in\{4,7\}$, and returns $\{4,7\} \setminus \{x\}$."
 
-Meaning, come up with function s.t:
+Meaning, come up with functions s.t:
 
 ``` c++
 /*
